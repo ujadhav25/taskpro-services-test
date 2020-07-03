@@ -1,0 +1,32 @@
+.user-name {
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+    background-color: aqua;
+    padding: 20px;
+    margin: 0;
+}
+
+.card {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: -1px 2px 4px rgba(0, 0, 0, 0.25), 1px 1px 3px rgba(0, 0, 0, 0.1);
+    min-width: 300px;
+    margin: 15px;
+    overflow: hidden;
+}
+
+.card-details {
+    padding: 0 15px 15px 15px;
+    text-align: left;
+}
+
+.apps {
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+}
+
+.app-list {
+    margin-top: 10px;
+}

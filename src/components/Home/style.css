@@ -1,0 +1,9 @@
+.no-data {
+    background-color: red;
+    padding: 7px;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    border-radius: 15px;
+}

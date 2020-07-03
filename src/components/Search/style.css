@@ -1,0 +1,19 @@
+.search-container {
+    margin: 20px 0;
+}
+
+input[type="text"] {
+    width: 200px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.clear-btn {
+    cursor: pointer;
+    padding: 12px 20px;
+    margin: 8px 10px;
+}
+
+

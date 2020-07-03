@@ -1,0 +1,5 @@
+export const FETCH_USERS = 'FETCH_USERS';
+export const SEARCH_USER = 'SEARCH_USER';
+export const SAVE_RATING = 'SAVE_RATING';
+export const FETCH_USERS_FAILED = 'FETCH_USERS_FAILED';
+
