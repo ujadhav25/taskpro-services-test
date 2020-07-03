@@ -12,7 +12,7 @@ const Home = () => {
 
     useEffect(() => {
         dispatch(fetchUsers);
-    }, [])
+    }, [dispatch])
 
     const searchByName = (name) => {
         dispatch(searchUser(name))
