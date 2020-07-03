@@ -13,7 +13,7 @@ const Rating = React.memo((props) => {
 
     useEffect(() => {
         setRating(curRating)
-    }, [])
+    })
 
 
     const hoverHandler = ev => {
